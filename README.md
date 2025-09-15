@@ -63,9 +63,9 @@ Below are sample screenshots of the GUI :-
 
 ![Password Manager GUI 1](screenshot_1.jpg)
 
-![Password Manager GUI 2](screenshot_2.jpg)
+![Password Manager GUI 2](screenshot_2.png)
 
-![Password Manager GUI 3](screenshot_3.jpg)
+![Password Manager GUI 3](screenshot_3.png)
 
 ---
 
